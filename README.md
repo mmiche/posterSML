@@ -15,3 +15,6 @@ A collection of questions which in hindsight I would have liked to be answered w
 
 #### SML recommended reading
 Just import the SMLrecommendations.bib document into your reference management software, e.g., zotero. This is of course only a very short list of articles. Browsing the web for 'supervised machine learning tutorial' will provide plenty of information to select from.
+
+#### Hands-on SML
+You can start experimenting with SML right away by downloading and using the supplementary material of the manuscript.
