@@ -11,7 +11,7 @@ Miché, M., Zander-Schellenberg, T., Wahl, K., & Lieb, R. (2022). *A demonstrati
 ### I provide various files which you might be interested in (see main posterSML folder).
 
 #### Q&A
-A collection of questions which in hindsight I would have liked to be answered when I was an SML newbie. As with any answer, the answers I provide reflect my current point of view. Other people may see things differently.
+A collection of questions which in hindsight I would have liked to have an answer to when I was an SML newbie. As with any answer, the answers I provide reflect my current point of view. Other people may see things differently.
 
 #### SML recommended reading
 Just import the SMLrecommendations.bib document into your reference management software, e.g., zotero. This is of course only a very short list of articles. Browsing the web for 'supervised machine learning tutorial' will provide plenty of information to select from.
