@@ -17,4 +17,7 @@ A collection of questions which in hindsight I would have liked to be answered w
 Just import the SMLrecommendations.bib document into your reference management software, e.g., zotero. This is of course only a very short list of articles. Browsing the web for 'supervised machine learning tutorial' will provide plenty of information to select from.
 
 #### Hands-on SML
-You can start experimenting with SML right away by downloading and using the [supplementary material of the manuscript](https://github.com/mmiche/demoSML "mmiche/demoSML").
+You can start experimenting with SML right away by downloading and using the [supplementary material of the manuscript](https://github.com/mmiche/demoSML "mmiche/demoSML") which this poster is based upon.
+
+#### Which software to use for SML
+Use whatever software you are most comfortable with. I use [R](https://www.r-project.org/ "R"), like (probably) most psychologists nowadays. The advantage of R may at the same time be its disadvantage: It is free. Everybody can contribute to it, meaning that everybody can write a software package, upload it to [CRAN](https://cran.r-project.org/mirrors.html "CRAN") and/or to GitHub, from where everybody can download and then use it. Therefore, several individuals and teams provide 'their' SML software solutions within R. For instance, currently two competitors are [Tidymodels](https://www.tidymodels.org/ "Tidymodels") and [mlr3](https://mlr3book.mlr-org.com/ "mlr3"). Both provide an interface to a very large number of SML relevant R software packages. Due to each single package having idiosyncrasies 
