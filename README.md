@@ -8,7 +8,7 @@ Miché, M., Zander-Schellenberg, T., Wahl, K., & Lieb, R. (2022). *A demonstrati
 
 ## What do you want to know next about SML?
 
-### I provide various markdown files which you might be interested in (see main posterSML folder).
+### I provide various files which you might be interested in (see main posterSML folder).
 
 #### Q&A
 A collection of questions which in hindsight I would have liked to be answered when I was an SML newbie. As with any answer, the answers I provide reflect my current point of view. Other people may see things differently.
