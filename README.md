@@ -21,10 +21,14 @@ You can start experimenting with SML right away by downloading and using the [su
 
 If you know how to use R, you can download the supplementary material within R like this:
 ```R
+# Only required if you have not installed the devtools package yet.
 install.packages("devtools")
+# Install demoSML from GitHub
 devtools::install_github(repo="https://github.com/mmiche/demoSML",
                       dependencies = "Imports", build_vignettes = TRUE)
+# Load the demoSML package
 library(demoSML)
+# Open the package documentation, notice the link 'User guides, package vignettes ...'.
 help(package="demoSML")
 ```
 
