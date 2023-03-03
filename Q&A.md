@@ -18,6 +18,22 @@ It's worth a try. SML means to check how well the data-based forecasting may wor
 ## What does 'works well' mean?
 How 'well forecasting works' is a problem on its own. There is no single 'thumbs up' or 'thumbs down' result available. In fact, there are quite many so-called performance measures available. Some can even make a very good impression, even though the forecasting does not work well, or does not work at all. The most prominent example is the performance measure 'accuracy' (the unweighted mean of the two performance measures sensitivity and specifity). When having a binary outcome (e.g., diagnosis no versus yes), where only very few cases have the diagnosis, e.g., less than 1% (let's say eating disorder in men), then the data is very imbalanced. If the forecasting always predicts 'no diagnosis', then it is correct in over 99% of all instances in the data. Even on average the forecasting will be close to 99%. Superficially, the forecasting would give the impression of being almost perfect, even though being totally useless.
 
+## How many performance measures are there?
+A lot.
+
+## Is there one single best performance measure?
+Certainly not.
+
+## Why are there *a lot* of performance measures?
+Probably so that the elephant can be looked at from any possible angle?
+
+## How do I know what is the best angle from which to look at the ele... the prediction performance?
+It mostly depends on your specific research question. For instance, if a research question shall be answered by using SML, this almost always puts the focus on how accurate the outcome can be predicted **on the individual level**. It may therefore be surprising (at least to me it was) that the most commonly used performance measure, e.g., the so-called area under the receiver operating characteristic curve (short: AUROC or just AUC), is a summary performance measure (it summarizes performance across all individuals, and the way it summarizes it is very crude). It may also be surprising that performance results that approach **the individual level**, i.e., calibration measures (Huang et al., 2020) are rarely presented in research papers that employ SML. One paper called calibration the Achilles heel of predictive analytics (Van Calster et al., 2019). Surprises like these, a paper by Altman and Royston (2000), and the fun in breaking a 'rule'
+
+Huang, Y., Li, W., Macheret, F., Gabriel, R. A., & Ohno-Machado, L. (2020). A tutorial on calibration measurements and calibration models for clinical prediction models. *Journal of the American Medical Informatics Association, 27(4)*, 621-633.
+
+Van Calster, B., McLernon, D. J., Van Smeden, M., Wynants, L., Steyerberg, E. W., & Topic Group ‘Evaluating diagnostic tests and prediction models’ of the STRATOS initiative. (2019). Calibration: the Achilles heel of predictive analytics. *BMC medicine, 17*, 1-7.
+
 ## Is SML really worth the time and effort for psychologists?
 I invested quite much time and effort and I am a psychologist. Therefore, of course I say yes. However, my 'yes' requires a specification. My time and effort included reading about how 'the father' of modern statistical learning Sir Ronald Fisher (1890-1962) provided the fundamental solid ground of the maximum likelihood principle (Edwards, 1974; Stigler, 2007), which we use every time we statistically estimate an hypothesized effect. This is very noteworthy, because there are several review articles in (clinical) psychology and medicine (Christodoulou et al., 2019; Nusinovici et al., 2020) that have repeatedly shown that machine learning algorithms (modern optimization techniques) do not outperform logistic regression ('old' optimization technique), at least not in the way that SML proponents expected it. However, even if this should not change, SML is very useful. The use is that it reveals probably the biggest weakness of how empirical research has been and still is conducted in (clinical) psychology. That is, not empirically cross-validated.
 
