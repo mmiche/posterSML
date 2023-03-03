@@ -1,4 +1,4 @@
-# Questions you might have
+# SML questions you might have
 
 All questions I present here are solely based on my personal experience in supervised machine learning (SML). Likewise, all answers I provide underwent only my personal method of scrutinizing SML sources. That is, the questions and answers I present are not peer-reviewed, not exhaustive, and not guaranteed to be 'correct'. I suggest to always be critical of every (SML related) answer and to always read at least from two separate sources. If you regard ChatGPT as a 'source', then I suggest to read at least from three different sources.
 
