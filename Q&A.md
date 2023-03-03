@@ -49,7 +49,7 @@ Christodoulou, E., Ma, J., Collins, G. S., Steyerberg, E. W., Verbakel, J. Y., &
 
 de Rooij, M., & Weeda, W. (2020). Cross-validation: A method every psychologist should know. *Advances in Methods and Practices in Psychological Science, 3(2)*, 248-263.
 
-Edwards, A. W. (1974). The history of likelihood. International *Statistical Review/Revue Internationale de Statistique*, 9-15.
+Edwards, A. W. (1974). The history of likelihood. *International Statistical Review/Revue Internationale de Statistique*, 9-15.
 
 Jacobucci, R., & Grimm, K. J. (2020). Machine learning and psychological research: The unexplored effect of measurement. *Perspectives on Psychological Science, 15(3)*, 809-816.
 
