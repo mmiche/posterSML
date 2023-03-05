@@ -20,8 +20,10 @@ How 'well forecasting works' is a problem on its own. There is no single 'thumbs
 
 ## How many performance measures are there?
 A lot. For starters, I recommend these sources:
+
 Steyerberg, E. W., Vickers, A. J., Cook, N. R., Gerds, T., Gonen, M., Obuchowski, N., ... & Kattan, M. W. (2010). Assessing the performance of prediction models: a framework for some traditional and novel measures. *Epidemiology (Cambridge, Mass.), 21(1)*, 128.
-Van Geloven, N., Giardiello, D., Bonneville, E. F., Teece, L., Ramspek, C. L., Van Smeden, M., ... & Steyerberg, E. (2022). Validation of prediction models in the presence of competing risks: a guide through modern methods. bmj, 377.
+
+Van Geloven, N., Giardiello, D., Bonneville, E. F., Teece, L., Ramspek, C. L., Van Smeden, M., ... & Steyerberg, E. (2022). Validation of prediction models in the presence of competing risks: a guide through modern methods. *bmj*, 377. DOI: 10.1136/bmj-2021-069249.
 
 ## Is there one single best performance measure?
 Certainly not.
