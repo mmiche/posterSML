@@ -19,7 +19,8 @@ It's worth a try. SML means to check how well the data-based forecasting may wor
 How 'well forecasting works' is a problem on its own. There is no single 'thumbs up' or 'thumbs down' result available. In fact, there are quite many so-called performance measures available. Some can even make a very good impression, even though the forecasting does not work well, or does not work at all. The most prominent example is the performance measure 'accuracy' (the unweighted mean of the two performance measures sensitivity and specifity). When having a binary outcome (e.g., diagnosis no versus yes), where only very few cases have the diagnosis, e.g., less than 1% (let's say eating disorder in men), then the data is very imbalanced. If the forecasting always predicts 'no diagnosis', then it is correct in over 99% of all instances in the data. Even on average the forecasting will be close to 99%. Superficially, the forecasting would give the impression of being almost perfect, even though being totally useless.
 
 ## How many performance measures are there?
-A lot.
+A lot. I recommend this source:
+Steyerberg, E. W., Vickers, A. J., Cook, N. R., Gerds, T., Gonen, M., Obuchowski, N., ... & Kattan, M. W. (2010). Assessing the performance of prediction models: a framework for some traditional and novel measures. *Epidemiology (Cambridge, Mass.), 21(1)*, 128.
 
 ## Is there one single best performance measure?
 Certainly not.
