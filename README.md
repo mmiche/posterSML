@@ -8,7 +8,7 @@ Miché, M., Zander-Schellenberg, T., Wahl, K., & Lieb, R. (2022). *A demonstrati
 
 ## What do you want to know next about SML?
 
-### I provide various files which you might be interested in (see main posterSML folder).
+### I provide diverse input and/or files which you might be interested in (see main posterSML folder). If you have a particular request or question that is not covered so far, use the 'issues' tag above. Please note: I provide this 'service' purely based on my intrinsic motivation to be of help (and to be helped). Anybody who decides to use this GitHub page for issuing ideologic preferences, e.g., use this instead of that software, will not receive any attention (or answer) from me, because to me that is a waste of time and energy.
 
 #### Q&A
 A collection of questions which in hindsight I would have liked to have an answer to when I was an SML newbie. As with any answer, the answers I provide reflect my current point of view. Other people may see things differently.
