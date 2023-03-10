@@ -64,3 +64,12 @@ Nusinovici, S., Tham, Y. C., Yan, M. Y. C., Ting, D. S. W., Li, J., Sabanayagam,
 Savitz, D. A., & Forastiere, F. (2021). Do pooled estimates from meta-analyses of observational epidemiology studies contribute to causal inference?. *Occupational and environmental medicine, 78(9)*, 621-622.
 
 Stigler, S. M. (2007). The epic story of maximum likelihood. *Statistical Science*, 598-620.
+
+## What is (hyperparameter) tuning in SML?
+First, tuning. What is it? Tuning = A human being actively uses at least one of a number of options that a piece of machinery provides, in order for that piece of machinery to produce a better final result, compared to not having actively used the provided option(s). An everyday example is a digital camera (piece of machinery). To get a good final result (nice picture) when it is dark, the user actively uses the night mode of the camera (= several particular parameters, which are preset in the camera's software, are collectively selected by the photographer; note that these parameters are set very differently in the daylight mode). The point is, the user selects either a collection of parameters (or just a single parameter) of that piece of machinery, dependent on the current circumstance (e.g., night, darkness), a) in order to get as good as possible a final result, and b) BEFORE that piece of machinery is going to do its actual business (produce the picture; final result). This last point emphasizes that 'hyperparameters' are never 'obtained' or 'estimated' by a data model (= piece of machinery). They are actively selected by the researcher, BEFORE the data model starts to compute the estimations, e.g., regression weights and intercept.
+
+Beware: Confusion may be caused by terminology. Hyperparameters sound similar to model parameters. They are very different things, see explanation above.
+
+Recommended reading on hyperparamters:
+
+Bischl, B., Binder, M., Lang, M., Pielok, T., Richter, J., Coors, S., ... & Lindauer, M. (2021). Hyperparameter optimization: Foundations, algorithms, best practices, and open challenges. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, e1484.
